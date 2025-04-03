@@ -1,0 +1,13 @@
+ffmpeg-python
+pandas
+moviepy
+nltk
+openai-whisper
+matplotlib
+seaborn
+torch
+pyannote.audio
+torchaudio
+librosa
+noisereduce
+speechbrain
