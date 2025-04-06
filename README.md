@@ -9,18 +9,19 @@ The project basically focuses on building up of a fully-functional prototype of 
 ## Step-by-step Procedure to run the project ->
 
 ### Step 0:
-Create a virtual environment, with Python 3.11 version
+Create a virtual environment, with **Python** **3.11** version
 # Make sure to use Python "11" in the (.venv)
 
 ```powershell
-\Python\Python311\python.exe -m venv .venv
+python -m venv .venv
 ```
 then
 ```
 .\Scripts\activate 
 ```
+```
 #virtual-environment activated!
-
+```
 
 ### Step 1:
 Run the following command to install all necessary Python libraries:
