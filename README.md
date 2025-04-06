@@ -19,9 +19,9 @@ then
 ```
 .\Scripts\activate 
 ```
-```
-#virtual-environment activated!
-```
+
+*#virtual-environment activated!*
+
 
 ### Step 1:
 Run the following command to install all necessary Python libraries:
