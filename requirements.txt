@@ -1,13 +1,13 @@
-ffmpeg-python
-pandas
-moviepy
-nltk
-openai-whisper
-matplotlib
-seaborn
-torch
-pyannote.audio
-torchaudio
-librosa
-noisereduce
-speechbrain
+ffmpeg-python == 0.2.0
+pandas == 2.2.3
+moviepy == 2.1.2
+nltk == 3.9.1
+openai-whisper == 20240930
+matplotlib == 3.10.1
+seaborn == 0.13.2
+torch == 2.6.0
+pyannote.audio == 3.3.2
+torchaudio == 2.6.0
+librosa == 0.11.0
+noisereduce == 3.0.3
+speechbrain == 1.0.2
