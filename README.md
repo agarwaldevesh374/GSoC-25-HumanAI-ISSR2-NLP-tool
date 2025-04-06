@@ -26,7 +26,7 @@ then
 ### Step 1:
 Run the following command to install all necessary Python libraries:
 ```powershell
-cd GSoC-HumanAI-ISSR2-Screening-Test
+cd <your-folder-name>
 pip install -r requirements.txt
 
 ```
